@@ -1,4 +1,5 @@
 # Line Following Robot with Robotic Arm & Color Detection
+<img width="960" height="1151" alt="IMG_4957" src="https://github.com/user-attachments/assets/3d69683f-9f26-4125-8d72-0dc2a8e4d689" />
 
 An ESP32-based autonomous robot that follows a track using 
 5-sensor PID control, detects colored obstacles via a TCS34725 
